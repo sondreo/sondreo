@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hello! 👋
+I'm a Software Engineer with a background in robotics and reinforcement learning.
 
 <!--
 **sondreo/sondreo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
