@@ -1,5 +1,7 @@
 ## Hello! 👋
-I'm a Software Engineer with a background in robotics and reinforcement learning.
+- I'm a Software Engineer with a background in robotics and reinforcement learning
+- I'm curently learning TypeScript and Rust
+- Ask me about Python or autonomous robots
 
 <!--
 **sondreo/sondreo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
